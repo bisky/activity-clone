@@ -1,0 +1,58 @@
+.banner{
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    object-fit: contain;
+    height: 380px;
+}
+
+.content{
+    margin-left: 20px;
+    padding-top: 10%;
+    height: 200px;
+}
+
+.description{
+    width: 45rem;
+    line-height: 1.3;
+    padding-top: 1rem;
+    font-size: 0.8rem;
+    height: 80px;
+}
+.btnPlay{
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-weight: 800;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: #fff;
+    height: 40px;
+    width: 120px;
+}
+.btnInfo{
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    border: none;
+    font-weight: 800;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: rgb(14, 12, 12, .8);
+    height: 40px;
+    width: 120px;
+}
+
+.btnPlay:hover{
+    background-color: rgba(136, 133, 133, 0.8);
+}
+.btnInfo:hover{
+    background-color: rgba(136, 133, 133, 0.8);
+}
+
+.fade{
+    height: 7.5rem;
+    background-image: linear-gradient(180deg, transparent, rgb(8, 8, 8, 0.61),  rgb(8, 8, 8));
+    margin-left: 0;
+    margin-top: 80px;
+}

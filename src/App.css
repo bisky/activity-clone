@@ -1,0 +1,66 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  background-color: rgb(8, 8, 8);
+  color: #fff;
+}
+
+.modalText{
+  color: white;
+}
+
+.modal-banner{
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: #fff;
+  object-fit: contain;
+  width: 100%;
+  height: 440px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  
+  
+}
+
+.modal-container{
+  display: flex;
+  flex-direction: column;
+}
+
+.btnModalClose{
+  align-self: flex-end;
+  margin-bottom: 15rem;
+}
+
+.btnBanner{
+  padding-top: 1rem;
+}
+.btnPlay{
+  cursor: pointer;
+  outline: none;
+  border: none;
+  font-weight: 800;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: #fff;
+  height: 40px;
+  width: 120px;
+}
+.btnInfo{
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  border: none;
+  font-weight: 800;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgb(14, 12, 12, .8);
+  height: 40px;
+  width: 120px;
+}
+
