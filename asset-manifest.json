@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/activity-clone/static/css/main.0e647e36.css",
+    "main.js": "/activity-clone/static/js/main.4f093d12.js",
+    "index.html": "/activity-clone/index.html",
+    "main.0e647e36.css.map": "/activity-clone/static/css/main.0e647e36.css.map",
+    "main.4f093d12.js.map": "/activity-clone/static/js/main.4f093d12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e647e36.css",
+    "static/js/main.4f093d12.js"
+  ]
+}
